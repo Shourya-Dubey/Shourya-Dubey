@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourya-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="shourya-dubey" /> </p>
 
-- 🌱 I’m currently learning **Web-app Development**
+- 🌱**Developer**
 
 - 📫 How to reach me **Shourya.dubey1999@gmail.com**
 
