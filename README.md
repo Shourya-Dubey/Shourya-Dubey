@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shourya Dubey</h1>
-<h3 align="center">FullStack developer</h3>
+<h3 align="center">FullStack developer & AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourya-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="shourya-dubey" /> </p>
 
